@@ -2,7 +2,7 @@
   "name": "react-crypto-initial",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dlubenchenko.github.io/react-crypto-initial",
+  "homepage": "https://github.com/dlubenchenko/react-crypto-initial",
   "type": "module",
   "scripts": {
     "dev": "vite",
